@@ -88,6 +88,4 @@ Para desenvolvimento com reinicialização automática ao alterar arquivos:
 npm run dev
 ```
 
-## Segurança das credenciais
-
-**Não compartilhe nem publique `config.json`.** O pacote do projeto pode já conter valores sensíveis nesse arquivo. Se o token ou uma chave real tiver sido exposta, revogue-a e gere outra no serviço correspondente. A database deste repositório foi resetada: as configurações começam nos valores padrão e as coleções de contas, progresso e registros OAuth2 estão vazias. Durante a execução, os arquivos podem receber configurações, identificadores e dados de usuários; não publique alterações da database com dados reais. Limpe os arquivos antes de qualquer novo envio público.
+**By tzx dev**
