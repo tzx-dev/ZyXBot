@@ -1,0 +1,11 @@
+# Credenciais/configuração local — nunca publicar
+config.json
+.env
+.env.*
+!.env.example
+
+# Dependências e artefatos locais
+node_modules/
+dist/
+build/
+.DS_Store
